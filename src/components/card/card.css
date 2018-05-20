@@ -1,0 +1,22 @@
+.dot {
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    margin: 0px 3px;
+    display: inline-block;
+  }
+  .dot-green{
+    background-color: green;
+  }
+  .dot-red{
+    background-color: red;
+  }
+  .image-spicy{
+      width: 11px;
+      margin: 0px 2px 2px;
+  }
+  .details{
+      font-size: 10px;
+      word-spacing: 0px;
+  }
+  
